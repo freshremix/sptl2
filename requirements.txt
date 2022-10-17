@@ -1,12 +1,6 @@
-pip==22.2.2
 streamlit
+pip
 python-telegram-bot==12.3.0
-python-dotenv==0.19.2
-spotdl==3.9.6
-pytube
-ytmusicapi
-spotipy
-requests
-yt-dlp==2022.9.1
-youtube_dl
-imageio-ffmpeg==0.4.7
+python-dotenv
+spotdl==4.0.0rc5
+yt-dlp
