@@ -1,6 +1,6 @@
 python-telegram-bot==12.3.0
 pytube==12.1.0
-spotdl==3.9.6
+spotdl==4.0.1
 python-dotenv
 numpy
 pandas
