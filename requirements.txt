@@ -1,5 +1,5 @@
 python-telegram-bot==13.14
-spotdl==4.0.5
+spotdl==4.0.7
 python-dotenv
 numpy
 pandas
