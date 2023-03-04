@@ -1,8 +1,8 @@
 python-telegram-bot==13.14
-spotdl==4.0.7
+spotdl==4.1.2
 python-dotenv
 numpy
 pandas
 streamlit
-pip==23.0
-yt-dlp==2023.1.6
+pip==23.0.1
+yt-dlp==2023.3.4
